@@ -1,0 +1,5 @@
+1.understand shared preference with todo app - know the basics - try to make login app and some basic app
+2.algorithms of shared preferance - search , sort ...
+3.firebase (2)
+4. 
+5. 1 app per day - 
